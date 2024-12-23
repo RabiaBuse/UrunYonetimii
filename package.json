@@ -1,0 +1,20 @@
+{
+  "name": "urunyonetimi",
+  "version": "1.0.0",
+  "description": "\"El Yapımı Ürünler E-Ticaret Platformu\" projesi, yerel zanaatkârlar, ev üreticileri ve el sanatları ustalarının ürünlerini geniş kitlelere ulaştırmayı hedefleyen bir dijital pazar yeri projesidir. Bu e-ticaret platformu, üreticilere ürünlerini sergileme, satış yapma ve müşterilerle iletişim kurma imkanı sunarken, müşterilere de benzersiz, el yapımı ürünlere kolay erişim sağlayan bir dijital altyapı sunmaktadır. Proje, modern e-ticaret teknolojileri ile geleneksel el sanatlarını birleştirerek, kültürel mirasın korunmasına ve yerel ekonominin gelişmesine katkıda bulunmayı hedeflemektedir.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "buse or rabia",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongodb": "^6.11.0",
+    "mongoose": "^8.9.0",
+    "multer": "^1.4.5-lts.1",
+    "node-modules": "^0.0.1"
+  }
+}
